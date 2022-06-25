@@ -7,7 +7,7 @@ class MainClass
     {
         Console.WriteLine("1- Hello World");
 
-        int nombre = 0;
+        int nombre;
         float nombreVirgule = 38.9f;
         string prenom;
         char lettre;
